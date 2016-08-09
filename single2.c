@@ -2,8 +2,8 @@
 #include <stdlib.h>
 int main()
 {
-    int a[]={8,1,4,7,3,3,4,7,1};
-    int n=sizeof(a)/sizeof(a[0]);
+    int a[]={1,2,3,4,5,4,3,2,1};
+    int n=9;
     int i,j,k,x=0;
     for(i=0;i<n;i++)
     {
