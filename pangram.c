@@ -72,11 +72,11 @@ int main()
         }
         if(flag==1)
         {
-            printf("\nnot a panagram");
+            printf("\nnot a pangram");
         }
         else if(flag==0)
         {
-            printf("\n Panagram");
+            printf("\n Pangram");
         }
     return 0;
 }
